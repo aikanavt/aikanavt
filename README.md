@@ -5,7 +5,7 @@ I'm a **Computer Science Master's student** with a strong passion for **data ana
 
 🔹 Currently, I'm diving deep into **time series modeling** and **business financial data analysis**.
 
-🔹 I have experience working with **Machine Learning Algorithms, NLP, SQL, Python, and Power BI**, and I'm actively improving my skills through hands-on projects.
+🔹 I have experience working with **Machine Learning Algorithms, NLP, SQL, Python, and Tableau**, and I'm actively improving my skills through hands-on projects.
 
 ## 💼 Projects & Experience
 Here are some of the projects I've worked on:
@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 - **Languages**: Python, SQL, R
 - **Data Science & Analytics**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Machine Learning & NLP**: TensorFlow, Keras, Gensim, NLTK, SpaCy
-- **Databases & BI Tools**: PostgreSQL, Power BI, Excel
+- **Databases & BI Tools**: PostgreSQL, Tableau, Excel
 - **Version Control & Cloud**: Git, GitHub, Google Cloud
 
 ## 📬 Let's Connect!
